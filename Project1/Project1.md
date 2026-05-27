@@ -8,7 +8,7 @@
 
 ## 🎥 Project Demonstration
 
-<img src="./assets/Screen Recording 2026-05-26 224512.gif" >
+<img src="./assets/Screen Recording 2026-05-26 224512.gif" style="width=100%;height = 100px" >
 
 ---
 
@@ -16,7 +16,7 @@
 
 ## ▶ Watch Full Animation Demo
 
-<img src="./assets/Screen Recording 2026-05-26 224512.gif" >
+<img src="./assets/Screen Recording 2026-05-26 224512.gif" style="width=100%;height = 100px" >
 
 ---
 
