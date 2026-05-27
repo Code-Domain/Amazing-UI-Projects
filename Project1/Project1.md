@@ -6,12 +6,6 @@
 
 # 🌐 Live Preview
 
-## 🎥 Project Demonstration
-
-<img src="./assets/Screen Recording 2026-05-26 224512.gif" style="width=100%;height = 100px" >
-
----
-
 # 📹 Demo Video
 
 ## ▶ Watch Full Animation Demo
