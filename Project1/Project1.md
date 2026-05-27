@@ -8,11 +8,7 @@
 
 ## 🎥 Project Demonstration
 
-> Replace the image below with your project preview GIF or screenshot.
-
-```md id="vbgzk1"
 <img src="./assets/Screen Recording 2026-05-26 224512.gif" >
-```
 
 ---
 
@@ -20,9 +16,7 @@
 
 ## ▶ Watch Full Animation Demo
 
-```md id="v0b4uy"
-[![Watch Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID)
-```
+<img src="./assets/Screen Recording 2026-05-26 224512.gif" >
 
 ---
 
