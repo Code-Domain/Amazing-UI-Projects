@@ -11,7 +11,7 @@
 > Replace the image below with your project preview GIF or screenshot.
 
 ```md id="vbgzk1"
-![Project Preview](./assets/Screen Recording 2026-05-26 224512.gif)
+<img src="./assets/Screen Recording 2026-05-26 224512.gif" >
 ```
 
 ---
